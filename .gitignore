@@ -1,4 +1,2 @@
-./TestLib/obj
-./TestLib/bin
-./Decompiler/obj
-./Decompiler/bin
+*/obj/*
+*/bin/*
